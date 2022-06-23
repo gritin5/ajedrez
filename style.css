@@ -1,0 +1,190 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image:url(images/madera.jpg);
+}
+.titulo{
+    font-size: 300px;
+    text-align: center;
+}
+.container{
+    border: 2px blacksolid;
+}
+.caja1{
+    height: 300px;
+    background-color: black; 
+    color: white;
+    text-align: center;
+     
+}
+.caja2{
+    height: 300px; 
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+     
+}
+.caja3{
+    height: 300px;
+    background-color: black; 
+    color: white;
+    text-align: center;
+     
+}
+.caja4{
+    background-color: whitesmoke;
+    height: 300px;
+    color: black;
+    text-align: center;
+     
+}
+.caja5{
+    height: 300px;
+    background-color: black;  
+    color: white;
+    text-align: center;
+     
+}
+.caja6{
+    background-color: whitesmoke;
+    height: 300px;
+    color: black;
+    text-align: center;
+     
+}
+.caja7{
+    height: 300px;
+    background-color: black;  
+    color: white;
+    text-align: center;
+     
+}
+.caja8{
+    background-color: whitesmoke;
+    height: 300px;
+    color: black;
+    text-align: center;
+     
+}
+.caja9{
+    height: 300px;
+    background-color: black;  
+    color: white;
+    text-align: center;
+     
+}
+.caja10{
+    height: 300px;
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+     
+}
+.caja11{
+     
+    height: 300px;
+    background-color: black;  
+    color: white;
+    text-align: center;
+     
+}
+.caja12{
+    background-color: whitesmoke;
+    height: 300px;
+    color: black;
+    text-align: center;
+     
+}
+.caja13{
+     
+    height: 300px;
+    background-color: black;  
+    color: white;
+    text-align: center;
+     
+}
+.caja14{
+    background-color: whitesmoke;
+    height: 300px;
+    color: black;
+    text-align: center;
+     
+}
+.caja15{
+    height: 300px;
+    background-color: black;  
+    color: white;
+    text-align: center;
+     
+}
+.caja16{
+    background-color: whitesmoke;
+    height: 300px; 
+    color: black;
+    text-align: center;
+     
+}
+
+.caja17{
+     
+    height: 300px;
+    background-color: black;  
+    color: white;
+    text-align: center;
+     
+}.caja18{
+    background-color: whitesmoke;
+    height: 300px;
+    color: black;
+    text-align: center;
+     
+}.caja19{
+     
+    height: 300px;
+    background-color: black;  
+    color: white;
+    text-align: center;
+     
+}.caja20{
+    background-color: whitesmoke;
+    height: 300px;
+    color: black;
+    text-align: center;
+     
+}.caja21{
+     
+    height: 300px;
+    background-color: black;  
+    color: white;
+    text-align: center;
+     
+}.caja22{
+    background-color: whitesmoke;
+    height: 300px;
+    color: black;
+    text-align: center;
+     
+}.caja23{
+     
+    height: 300px;
+    background-color: black;  
+    color: white;
+    text-align: center;
+     
+}.caja24{
+    background-color: whitesmoke;
+    height: 300px;
+    color: black;
+    text-align: center;
+     
+}.caja25{
+    background-color: whitesmoke;
+    height: 300px;
+    background-color: black;  
+    color: white;
+    text-align: center;
+     
+}
